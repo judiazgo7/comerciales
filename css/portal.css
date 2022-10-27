@@ -1,0 +1,139 @@
+html{
+    font-family: arial;
+    background-color: #000000;
+}
+body{
+    color:#FFFFFF;
+    margin: 0;
+}
+    ul {
+            list-style-type: none;
+            margin: 0;
+            margin-top: 24px;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000000;
+            border: 1px solid #000000; 
+            border-radius: 5px;
+            }
+
+            li {
+                float: left;
+                margin-left: 2%;
+            }
+            li p {
+            display:block;
+            color:white;
+            text-align:center;
+            text-decoration:none;
+            font-family: "arial";
+            font-size: 28px;
+            padding: 16px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            font-weight: bold;
+            }
+            li a {
+            display:block;
+            color:white;
+            text-align:center;
+            padding:16px;
+            text-decoration:none;
+            font-family: "arial";
+            font-size: 24px;
+            font-weight: bold;
+            }
+
+            li a:hover{
+                background-color:#000000;
+            }
+            h2,p,div{ 
+                /*color: white;*/
+
+            }
+            .logo{
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.arriba{
+    display: flex;
+}
+.arribauno{
+    width: 10%;
+    align-content: center;
+}
+.arribados{
+    width: 80%;
+}
+.seleccion{
+    margin-top: 16px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+}
+footer{
+    background-color: #000000;
+    color:white;
+
+}
+.social{
+    width: 4%;
+    position: relative;
+    left: 90%;
+    bottom: 16px;
+}
+.twitter{
+    width: 5.5%;
+}
+footer p{
+    position: relative;
+    top: 30pt;
+    text-align: center;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.padre{
+    display: flex;
+    height: 20%;
+}
+div{
+    /*border: 2px solid #a9a9a9; */
+}
+.a{
+    border: 2px solid #FFFFFF;
+    padding: 1%;
+    border-radius: 7px;
+    width: 50%;
+    margin: 1%;
+}
+
+.imagen{
+    width: 100%;
+    height: 100%;
+}
+.cuauno, .cuados{
+    display: flex;
+    margin: 1%;
+}
+.unodos, .unouno{
+    width: 50%; 
+}
+.unodos{
+    padding-left: 1%;
+}
+span{
+    height: 40%;
+    width: 20%;
+}
+.padre{
+    font-size: 15px;
+        margin-top: 1%;
+}
+.comentario{
+    margin-bottom: 1%;
+}

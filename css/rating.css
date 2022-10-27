@@ -1,0 +1,14 @@
+.rating label
+{
+	cursor: pointer;
+	width: 50px;
+	background: #ccc;
+}
+.rating label:before
+{
+	content: '\f005';
+	font-family: fontAwesome;
+	font-size:50px;
+	color: #101010;
+}
+/*https://www.youtube.com/watch?v=Ep78KjstQuw*/

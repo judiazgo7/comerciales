@@ -1,0 +1,93 @@
+.padre{
+	display: flex;
+	height: 20%;
+}
+div{
+	/*border: 2px solid #a9a9a9; */
+}
+.a{
+	border: 2px solid #FF8000;
+	padding: 1%;
+	border-radius: 7px;
+	width: 50%;
+	margin: 1%;
+}
+
+.imagen{
+    width: 100%;
+    height: 100%;
+}
+.cuauno, .cuados{
+	display: flex;
+    margin: 1%;
+}
+.unodos, .unouno{
+	width: 50%;	
+}
+.unodos{
+	padding-left: 1%;
+}
+span{
+    height: 40%;
+    width: 20%;
+}
+.padre{
+	margin-top: 1%;
+	font-size: 15px;
+}
+.comentario{
+	margin-bottom: 1%;
+}
+
+/* comentarios*/
+
+#form{
+           
+            height: 80px;
+            padding:20px;
+            background:white;
+            min-width: 300px;
+            max-width: 800px;
+            margin: 0 auto 0 auto;
+            border-radius: 5px;
+            position:relative;
+            background-color: #efefef;
+            cursor: default;
+            
+        }
+        
+        #com{
+            width: 100%;
+            height: 35px;
+            padding-left: 5px;
+            border: none;
+            
+        }
+        #enviar{
+            margin-top: 10px;
+            width: 100%;
+            height: 35px;
+            border: none;
+             -webkit-transition:cubic-bezier(.27, 0, .24, .93) .5s all;
+        }
+        #enviar:hover{
+            background:#458df0;
+            color:white;
+            -webkit-transition:cubic-bezier(.27, 0, .24, .93) .5s all;
+            
+        }
+        .item-com{
+           
+           max-width:  80px;
+            padding:20px;
+            background:white;
+            min-width: 300px;
+            max-width: 800px;
+            margin: 0 auto 0 auto;
+            border-radius: 5px;
+            position:relative;
+            background-color: #efefef;
+            margin-top: 10px;
+            cursor: default;
+            -webkit-user-select:none;
+        }
