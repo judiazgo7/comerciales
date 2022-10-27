@@ -1,4 +1,6 @@
 <!-- Página que muestra el formulario para registrar un usuario -->
+<!-- Página que muestra el formulario para registrar un usuario -->
+<!-- Página que muestra el formulario para registrar un usuario -->
 
 ﻿<!DOCTYPE html>
 <html>
